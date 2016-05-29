@@ -9,7 +9,7 @@ Share your first project ideas with the rest of the cohort.
 By the end of this, developers should be able to:
 
 -   Clearly state user stories for game project.
--   Explain plans to reamin on track during project week.
+-   Explain plans to remain on track during project week.
 -   Share creative spin on game project.
 
 ## Preparation
